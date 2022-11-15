@@ -5,3 +5,5 @@
 - [ ] SnowRunner
 - [ ] Spintires
 - [x] Brotato
+- [x] Inscryption
+- [x] Mount & Blade: Bannerlords
