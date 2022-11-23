@@ -7,3 +7,5 @@
 - [x] Brotato
 - [x] Inscryption
 - [x] Mount & Blade: Bannerlords
+- [ ] It takes two
+- [ ] A way out
