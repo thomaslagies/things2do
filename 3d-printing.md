@@ -1,1 +1,4 @@
 - [ ] Coasters
+- [x] Hinges
+- [x] Flower pots
+- [x] Lamp shade
