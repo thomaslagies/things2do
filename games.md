@@ -9,3 +9,4 @@
 - [x] Mount & Blade: Bannerlords
 - [ ] It takes two
 - [ ] A way out
+- [ ] Marvel's Spider-Man Remastered
