@@ -4,3 +4,4 @@
 - [x] BOSCH GTS workbench
 - [ ] Second workbench
 - [ ] Coasters
+- [ ] Router plate template
