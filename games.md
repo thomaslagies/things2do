@@ -10,3 +10,5 @@
 - [ ] It takes two
 - [ ] A way out
 - [ ] Marvel's Spider-Man Remastered
+- [ ] Deadspace
+- [ ] Elden Ring
