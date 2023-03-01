@@ -12,3 +12,4 @@
 - [ ] Marvel's Spider-Man Remastered
 - [ ] Deadspace
 - [ ] Elden Ring
+- [ ] High on life
