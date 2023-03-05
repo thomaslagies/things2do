@@ -13,3 +13,5 @@
 - [ ] Deadspace
 - [ ] Elden Ring
 - [ ] High on life
+- [x] Farthest Frontier
+- [x] Metal Hellsinger
