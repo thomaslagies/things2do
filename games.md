@@ -1,6 +1,6 @@
 # Games
 
-- [ ] Dune: Spice Wars
+- [x] Dune: Spice Wars
 - [ ] Police Simulator: Patrol Officers
 - [ ] SnowRunner
 - [ ] Spintires
