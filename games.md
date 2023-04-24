@@ -16,3 +16,4 @@
 - [x] Farthest Frontier
 - [x] Metal Hellsinger
 - [x] Dirt
+- [x] Hogwarts Legacy
