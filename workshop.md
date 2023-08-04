@@ -5,3 +5,4 @@
 - [ ] Second workbench
 - [ ] Coasters
 - [ ] Router plate template
+- [ ] Drying rack
