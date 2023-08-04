@@ -9,3 +9,4 @@
 - [x] Router inserts
 - [x] Router template
 - [ ] Filament Shelf
+- [ ] Bathroom organizer (long shelf with index)
