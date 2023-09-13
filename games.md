@@ -17,3 +17,4 @@
 - [x] Metal Hellsinger
 - [x] Dirt
 - [x] Hogwarts Legacy
+- [ ] Loop Hero
