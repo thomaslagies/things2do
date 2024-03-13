@@ -7,8 +7,8 @@
 - [x] Brotato
 - [x] Inscryption
 - [x] Mount & Blade: Bannerlords
-- [ ] It takes two
-- [ ] A way out
+- [x] It takes two
+- [x] A way out
 - [ ] Marvel's Spider-Man Remastered
 - [ ] Deadspace
 - [ ] Elden Ring
