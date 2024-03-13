@@ -2,7 +2,7 @@
 
 - [x] IKEA Ivar doors
 - [x] BOSCH GTS workbench
-- [ ] Second workbench
+- [x] Second workbench
 - [ ] Coasters
-- [ ] Router plate template
+- [x] Router plate template
 - [ ] Drying rack
