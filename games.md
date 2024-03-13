@@ -18,3 +18,5 @@
 - [x] Dirt
 - [x] Hogwarts Legacy
 - [ ] Loop Hero
+- [x] Deep Rock Galactic: Survivors
+- [x] Lethal Company (Banger!)
