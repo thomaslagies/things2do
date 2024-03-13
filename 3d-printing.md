@@ -1,6 +1,6 @@
 # 3D Printing
 
-- [ ] Coasters
+- [x] Coasters
 - [x] Hinges
 - [x] Flower pots
 - [x] Lamp shade
@@ -8,5 +8,5 @@
 - [x] Router plate
 - [x] Router inserts
 - [x] Router template
-- [ ] Filament Shelf
+- [x] Filament Shelf
 - [ ] Bathroom organizer (long shelf with index)
