@@ -1,5 +1,6 @@
 # Movies
 
+- [ ] Jojo Rabbit
 - [ ] Lord of War
 - [ ] Dune
 - [ ] Snatch
