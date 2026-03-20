@@ -1,19 +1,19 @@
 # Movies
 
 - [ ] Jojo Rabbit
-- [ ] Lord of War
-- [ ] Dune
-- [ ] Snatch
-- [ ] Bube, Dame, Koenig, grAS
-- [ ] Rock N Rolla
-- [ ] The Gentlemen
-- [ ] The sixth sense
+- [x] Lord of War
+- [x] Dune
+- [x] Snatch
+- [x] Bube, Dame, Koenig, grAS
+- [x] Rock N Rolla
+- [x] The Gentlemen
+- [x] The sixth sense
 - [ ] Machete
 - [ ] Guck mal wer da spricht
-- [ ] Adams Äpfel
+- [x] Adams Äpfel
+- [ ] Ariel 2
 
-# Series
+# Shows
 
-- [ ] IT-Crowd
+- [x] IT-Crowd
 - [ ] Der Schwarm
-- [ ] Rings of Power
