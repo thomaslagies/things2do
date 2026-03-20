@@ -23,3 +23,4 @@
 - [x] IT-Crowd
 - [ ] Der Schwarm
 - [ ] Pumuckl
+- [ ] Silo
