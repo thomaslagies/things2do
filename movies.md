@@ -12,8 +12,14 @@
 - [ ] Guck mal wer da spricht
 - [x] Adams Äpfel
 - [ ] Ariel 2
+- [ ] Der letzte Kaiser
+- [ ] Der englische Patient
+- [ ] Es war einmal in Amerika
+- [ ] Flow
+- [ ] Blow
 
 # Shows
 
 - [x] IT-Crowd
 - [ ] Der Schwarm
+- [ ] Pumuckl
